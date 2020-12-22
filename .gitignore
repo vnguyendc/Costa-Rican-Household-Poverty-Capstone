@@ -1,0 +1,3 @@
+*.icloud
+catboost_info/
+.ipynb_checkpoints/
